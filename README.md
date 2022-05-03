@@ -1,6 +1,8 @@
-<div align=center><h2> HELLO! Welcome to my github </h2></div>
-Continue;
+<div align=center><h2> Welcome to my github </h2></div>
+Hello! :wave: I'm major Intelligent Mechatronics Engineering  
 
+
+"If i do nothing, nothing will happen"
 
 
 <div align=center><h2>📚 STACKS</h2></div>
