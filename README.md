@@ -1,6 +1,4 @@
-<div align=center><h2> Welcome to my github </h2></div>
-Hello! :wave:
-
+<div align=center><h2> Hello! :wave: Welcome to my Github! </h2></div>
 
 "If i do nothing, nothing will happen"
 
