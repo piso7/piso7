@@ -1,5 +1,5 @@
 <div align=center><h2> Welcome to my github </h2></div>
-Hello! :wave: I major in Intelligent Mechatronics Engineering  
+Hello! :wave:
 
 
 "If i do nothing, nothing will happen"
