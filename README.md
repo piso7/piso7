@@ -2,8 +2,8 @@
 
 "If i do nothing, nothing will happen"
 
-<div align=center><h2> Research Interset </h2></div>
-Natural Language Processing
+<div align=center><h2> Research Interest </h2></div>
+Natural Language Processing  
 Large Language Model
 
 <div align=center><h2>📚 STACKS</h2></div>
