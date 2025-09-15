@@ -8,7 +8,7 @@
 - **Sejong University**, B.S. in Intelligent Mechatronics Engineering (2017/03 – 2023/02)
 
 ## 📑 Publications
-- **[GRAIL: Gradient-Based Adaptive Unlearning for Privacy and Copyright in LLMs](https://arxiv.org/abs/2504.12681)** has been accepted to **IJCNN 2025**
+[2025 Apr] **[GRAIL: Gradient-Based Adaptive Unlearning for Privacy and Copyright in LLMs](https://arxiv.org/abs/2504.12681)** has been accepted to **IJCNN 2025**
 
 <!--
 **piso7/piso7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
