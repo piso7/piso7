@@ -1,12 +1,14 @@
-<div align=center><h2> Hello! :wave: Welcome to my Github! </h2></div>
+## Thank you for visiting my GitHub.
 
-"If i do nothing, nothing will happen"
+## About me
+INTEREST: NLP, NLG, LLM, RAG, Unlearning, AI Safety
 
-<div align=center><h2> Research Interest </h2></div>
-- Natural Language Processing
-- Large Language Model
+## 🎓 Education
+- **Korea University Graduate School of Artificial Intelligence**, M.S. in Artificial Intelligence (2023/09 - Present)
+- **Sejong University**, B.S. in Intelligent Mechatronics Engineering (2017/03 – 2023/02)
 
-
+## 📑 Publications
+- **[GRAIL: Gradient-Based Adaptive Unlearning for Privacy and Copyright in LLMs](https://arxiv.org/abs/2504.12681)** has been accepted to IJCNN 2025
 
 <!--
 **piso7/piso7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
