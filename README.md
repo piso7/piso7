@@ -1,7 +1,7 @@
 ## Thank you for visiting my GitHub.
 
 ## About me
-INTEREST: NLP, NLG, LLM, RAG, Unlearning, AI Safety
+**INTEREST**: NLP, NLG, LLM, RAG, LLM-based agent, Unlearning, AI Safety (Privacy, Copyright and Bias)
 
 ## 🎓 Education
 - **Korea University Graduate School of Artificial Intelligence**, M.S. in Artificial Intelligence (2023/09 - Present)
