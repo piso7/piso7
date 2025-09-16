@@ -1,4 +1,4 @@
-## Thank you for visiting my GitHub.
+Thank you for visiting my GitHub.
 
 ## About me
 **INTEREST**: NLP, NLG, LLM, RAG, LLM-based agent, Unlearning, AI Safety (Privacy, Copyright and Bias)
