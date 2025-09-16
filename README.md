@@ -4,7 +4,7 @@
 **INTEREST**: NLP, NLG, LLM, RAG, LLM-based agent, Unlearning, AI Safety (Privacy, Copyright and Bias)
 
 ## 🎓 Education
-- **Korea University Graduate School of Artificial Intelligence**, M.S. in Artificial Intelligence (2023/09 - Present)
+- **Korea University Graduate School of Artificial Intelligence**, M.S. in Artificial Intelligence (2023/09 - 2025/08)
 - **Sejong University**, B.S. in Intelligent Mechatronics Engineering (2017/03 – 2023/02)
 
 ## 📑 Publications
