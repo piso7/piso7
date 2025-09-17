@@ -8,10 +8,11 @@ Thank you for visiting my GitHub.
 - **Sejong University**, B.S. in Intelligent Mechatronics Engineering (2017/03 – 2023/02)
 
 ## 📑 Publications
-[2025 Apr.] **[GRAIL: Gradient-Based Adaptive Unlearning for Privacy and Copyright in LLMs](https://arxiv.org/abs/2504.12681)** has been accepted to **IJCNN 2025**
+- [GRAIL: Gradient-Based Adaptive Unlearning for Privacy and Copyright in LLMs](https://arxiv.org/abs/2504.12681), **K.-W. Kim**, J.-H Park, J.-M Han, and S.-W. Lee, **IEEE International Joint Conference on Neural Networks**, 2025
 
 <!--
 **piso7/piso7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[2025 Apr.] **[GRAIL: Gradient-Based Adaptive Unlearning for Privacy and Copyright in LLMs](https://arxiv.org/abs/2504.12681)** has been accepted to **IJCNN 2025**
 
 Here are some ideas to get you started:
 
