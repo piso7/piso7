@@ -9,7 +9,8 @@ Thank you for visiting my GitHub.
 
 ## 📑 Publications
 - [GRAIL: Gradient-Based Adaptive Unlearning for Privacy and Copyright in LLMs](https://arxiv.org/abs/2504.12681), **K.-W. Kim**, J.-H Park, J.-M Han, and S.-W. Lee, **IEEE International Joint Conference on Neural Networks**, 2025
-
+- SKILL: Sensitive Knowledge In-scope Unlearning Library for Multi-domain Unlearning in LLMs, **K.-W. Kim**, J.-H Park,  and S.-W. Lee, under review, 2025
+  
 <!--
 **piso7/piso7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [2025 Apr.] **[GRAIL: Gradient-Based Adaptive Unlearning for Privacy and Copyright in LLMs](https://arxiv.org/abs/2504.12681)** has been accepted to **IJCNN 2025**
